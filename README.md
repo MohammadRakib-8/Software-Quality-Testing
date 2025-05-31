@@ -1,4 +1,5 @@
-🧪 Selenium IDE Test Automation – Sobzi Lagbe Vegetable Shop
+🧪 Selenium IDE Test Automation – Sobzi Lagbe Vegetable Shop Web Application
+
 This project demonstrates automated testing using Selenium IDE on a custom-built vegetable shop management system developed with HTML, CSS, JavaScript, and AJAX. Key tests include:
 * ✅ Valid login
 * ❌ Invalid login
