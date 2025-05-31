@@ -6,5 +6,6 @@ This project demonstrates automated testing using Selenium IDE on a custom-built
 * 📝 User registration
 * ➕ Add product
 * ✏️ Update product
+  
 Each test is recorded and executed via Selenium IDE to validate functionality, form inputs, and user interaction workflows.
 
