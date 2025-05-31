@@ -1,2 +1,9 @@
-# Software-Quality-Testing
-🧪 Automated testing with Selenium IDE for a vegetable shop web app built with HTML, CSS, JS &amp; AJAX. Includes tests for valid/invalid login, user registration, product addition, and updates. Validates core functionality and UI interactions through recorded test cases.
+🧪 Selenium IDE Test Automation – Sobzi Lagbe Vegetable Shop
+This project demonstrates automated testing using Selenium IDE on a custom-built vegetable shop management system developed with HTML, CSS, JavaScript, and AJAX. Key tests include:
+* ✅ Valid login
+* ❌ Invalid login
+* 📝 User registration
+* ➕ Add product
+* ✏️ Update product
+Each test is recorded and executed via Selenium IDE to validate functionality, form inputs, and user interaction workflows.
+
